@@ -28,6 +28,7 @@
 
 ### Back-End
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -52,7 +53,7 @@
 ## 📂 Featured Projects
 | Project | Tech | Description |
 |--------|------|-------------|
-| **01Blog** | Java, Angular, PostgreSQL, Docker | Full-stack social blogging platform with authentication, roles, likes, comments, media uploads. |
+| **01Blog** | Java, Spring Boot, Angular, PostgreSQL, Docker | Full-stack social blogging platform with authentication, roles, likes, comments, media uploads. |
 | **Social-Network** | Go, Next.js, SQLite, WebSockets | Real-time social media app with chat, profiles, and activity feeds. |
 | **Real-Time Forum** | Go, Vanilla JS, SQLite, WebSockets | SPA forum with private messaging and real-time updates. |
 | **Bomberman-DOM** | Node.js, Vanilla JS, WebSockets | Multiplayer real-time Bomberman game with chat and smooth 60fps gameplay. |
